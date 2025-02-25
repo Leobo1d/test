@@ -1,11 +1,17 @@
 # Test für den Workshop zu GIT
 
-## was soll ich schreiben??
+Das hier ist eine **README** datei. 
 
-Ich schreib jetzt was in die README was keinen Sinn ergeben soll...
+Sie dient zum Test der Funktionen einer _Markdown Datei_ .
 
-Sinnfreie Nachricht. Oder doch mit Sinn?? 42
+Die Informationen zu den verschiedenen Features von Markdown Dateien entnehme ich von [Einer Internet Seite] (https://oer-informatik.de/git04-readme-erstellen)
 
-Den Sinn seh ich noch immer nicht. Das ist ein Spaß.
+Man kann sogar Tabellen erstellen:
 
-Currywurst in der Kantine
+| Was | ist | los | man |
+|----:|:-----|:------:|-------|
+| das | ist | los | man |
+
+1. Eine Aufzählung ist auch möglich
+2. Gar nicht mal schwer
+3. überhaupt nicht, einfach die Zahl, nen Punkt und n Leerzeichen
