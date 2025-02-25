@@ -1,4 +1,4 @@
-# test
+# Test für den Workshop zu GIT
 
 ## was soll ich schreiben??
 
